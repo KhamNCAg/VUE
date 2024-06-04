@@ -3,7 +3,8 @@ const vapp= Vue.createApp({
         return{
             title:"Testing Vue",
             author:"KNCA",
-            age:"21"
+            age:"21",
+            showBook:true
         }
     }
 })
